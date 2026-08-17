@@ -1,0 +1,17 @@
+Validation summary
+==================
+Authoritative source CSVs processed: 45
+Clean result CSVs generated: 45
+Benchmark task CSVs generated: 9
+
+- tasks_AGV05_T036.csv: 30 iterations; each iteration has 36 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV05_T072.csv: 30 iterations; each iteration has 72 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV05_T100.csv: 30 iterations; each iteration has 100 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV08_T036.csv: 30 iterations; each iteration has 36 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV08_T072.csv: 30 iterations; each iteration has 72 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV08_T100.csv: 30 iterations; each iteration has 100 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV10_T036.csv: 30 iterations; each iteration has 36 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV10_T072.csv: 30 iterations; each iteration has 72 tasks; task set identical across all 40 VNS solution columns.
+- tasks_AGV10_T100.csv: 30 iterations; each iteration has 100 tasks; task set identical across all 40 VNS solution columns.
+
+All nonblank result cells parsed successfully; per-AGV time and energy vector lengths matched the scenario AGV count.

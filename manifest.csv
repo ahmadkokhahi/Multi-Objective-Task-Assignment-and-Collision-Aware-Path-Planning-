@@ -1,0 +1,55 @@
+file_type,algorithm,agv_count,task_count,iterations,nonblank_solutions,repository_path,source_filename
+benchmark_tasks,Common task locations,5,36,30,,data/benchmark_tasks/tasks_AGV05_T036.csv,results_VNS_improved_Vehi5_tas36_group_mod_copy(1).csv
+benchmark_tasks,Common task locations,5,72,30,,data/benchmark_tasks/tasks_AGV05_T072.csv,results_VNS_improved_Vehi5_tas72_group_mod_copy(1).csv
+benchmark_tasks,Common task locations,5,100,30,,data/benchmark_tasks/tasks_AGV05_T100.csv,results_VNS_improved_Vehi5_tas100_group_mod_copy(1).csv
+benchmark_tasks,Common task locations,8,36,30,,data/benchmark_tasks/tasks_AGV08_T036.csv,results_VNS_improved_Vehi8_tas36_group_mod_copy (1)(1).csv
+benchmark_tasks,Common task locations,8,72,30,,data/benchmark_tasks/tasks_AGV08_T072.csv,results_VNS_improved_Vehi8_tas72_group_mod_copy (1)(1).csv
+benchmark_tasks,Common task locations,8,100,30,,data/benchmark_tasks/tasks_AGV08_T100.csv,results_VNS_improved_Vehi8_tas100_group_mod_copy(1).csv
+benchmark_tasks,Common task locations,10,36,30,,data/benchmark_tasks/tasks_AGV10_T036.csv,results_VNS_improved_Vehi10_tas36_group_mod_copy (1)(1).csv
+benchmark_tasks,Common task locations,10,72,30,,data/benchmark_tasks/tasks_AGV10_T072.csv,results_VNS_improved_Vehi10_tas72_group_mod_copy (1)(1).csv
+benchmark_tasks,Common task locations,10,100,30,,data/benchmark_tasks/tasks_AGV10_T100.csv,results_VNS_improved_Vehi10_tas100_group_mod_copy (1)(1).csv
+results,KnEA,5,36,30,1893,data/results/KnEA/KnEA_AGV05_T036.csv,Knee_Vehi5_tas36_group_mo_co(1).csv
+results,KnEA,5,72,30,1950,data/results/KnEA/KnEA_AGV05_T072.csv,Knee_Vehi5_tas72_group_mo_co(1).csv
+results,KnEA,5,100,30,1950,data/results/KnEA/KnEA_AGV05_T100.csv,Knee_Vehi5_tas100_group_mo_co(1).csv
+results,KnEA,8,36,30,1834,data/results/KnEA/KnEA_AGV08_T036.csv,Knee_Vehi8_tas36_group_mo_co(1).csv
+results,KnEA,8,72,30,1950,data/results/KnEA/KnEA_AGV08_T072.csv,Knee_Vehi8_tas72_group_mo_co (1)(1).csv
+results,KnEA,8,100,30,1950,data/results/KnEA/KnEA_AGV08_T100.csv,Knee_Vehi8_tas100_group_mo_co(1).csv
+results,KnEA,10,36,30,1938,data/results/KnEA/KnEA_AGV10_T036.csv,Knee_Vehi10_tas36_group_mo_co(1).csv
+results,KnEA,10,72,30,1950,data/results/KnEA/KnEA_AGV10_T072.csv,Knee_Vehi10_tas72_group_mo_co(1).csv
+results,KnEA,10,100,30,1947,data/results/KnEA/KnEA_AGV10_T100.csv,Knee_Vehi10_tas100_group_mo_co(1).csv
+results,ALNS,5,36,30,1200,data/results/ALNS/ALNS_AGV05_T036.csv,results_VNS_improved_Vehi5_tas36_group_mod_copy(1).csv
+results,ALNS,5,72,30,1200,data/results/ALNS/ALNS_AGV05_T072.csv,results_VNS_improved_Vehi5_tas72_group_mod_copy(1).csv
+results,ALNS,5,100,30,1200,data/results/ALNS/ALNS_AGV05_T100.csv,results_VNS_improved_Vehi5_tas100_group_mod_copy(1).csv
+results,ALNS,8,36,30,1200,data/results/ALNS/ALNS_AGV08_T036.csv,results_VNS_improved_Vehi8_tas36_group_mod_copy (1)(1).csv
+results,ALNS,8,72,30,1200,data/results/ALNS/ALNS_AGV08_T072.csv,results_VNS_improved_Vehi8_tas72_group_mod_copy (1)(1).csv
+results,ALNS,8,100,30,1200,data/results/ALNS/ALNS_AGV08_T100.csv,results_VNS_improved_Vehi8_tas100_group_mod_copy(1).csv
+results,ALNS,10,36,30,1200,data/results/ALNS/ALNS_AGV10_T036.csv,results_VNS_improved_Vehi10_tas36_group_mod_copy (1)(1).csv
+results,ALNS,10,72,30,1200,data/results/ALNS/ALNS_AGV10_T072.csv,results_VNS_improved_Vehi10_tas72_group_mod_copy (1)(1).csv
+results,ALNS,10,100,30,1200,data/results/ALNS/ALNS_AGV10_T100.csv,results_VNS_improved_Vehi10_tas100_group_mod_copy (1)(1).csv
+results,IKnEA,5,36,30,2582,data/results/IKnEA/IKnEA_AGV05_T036.csv,Values_Knee_samp1_Vehi5_tas36_group_mo_co(1).csv
+results,IKnEA,10,100,30,2836,data/results/IKnEA/IKnEA_AGV10_T100.csv,Values_Knee_samp1_Vehi10_tas100_group_mo_co.csv
+results,ND-IKnEA,5,36,30,2763,data/results/ND-IKnEA/NDIKnEA_AGV05_T036.csv,Values_Knee_samp2_Vehi5_tas36_group_mo_co.csv
+results,ND-IKnEA,5,72,30,2792,data/results/ND-IKnEA/NDIKnEA_AGV05_T072.csv,Values_Knee_samp2_Vehi5_tas72_group_mo_co.csv
+results,ND-IKnEA,5,100,30,2847,data/results/ND-IKnEA/NDIKnEA_AGV05_T100.csv,Values_Knee_samp2_Vehi5_tas100_group_mo_co.csv
+results,ND-IKnEA,8,36,30,2013,data/results/ND-IKnEA/NDIKnEA_AGV08_T036.csv,Values_Knee_samp2_Vehi8_tas36_group_mo_co.csv
+results,ND-IKnEA,8,72,30,3020,data/results/ND-IKnEA/NDIKnEA_AGV08_T072.csv,Values_Knee_samp2_Vehi8_tas72_group_mo_co.csv
+results,ND-IKnEA,8,100,30,2889,data/results/ND-IKnEA/NDIKnEA_AGV08_T100.csv,Values_Knee_samp2_Vehi8_tas100_group_mo_co.csv
+results,ND-IKnEA,10,36,30,3004,data/results/ND-IKnEA/NDIKnEA_AGV10_T036.csv,Values_Knee_samp2_Vehi10_tas36_group_mo_co.csv
+results,ND-IKnEA,10,72,30,2776,data/results/ND-IKnEA/NDIKnEA_AGV10_T072.csv,Values_Knee_samp2_Vehi10_tas72_group_mo_co.csv
+results,ND-IKnEA,10,100,30,2928,data/results/ND-IKnEA/NDIKnEA_AGV10_T100.csv,Values_Knee_samp2_Vehi10_tas100_group_mo_co.csv
+results,NSGA-II,5,36,30,2700,data/results/NSGA-II/NSGAII_AGV05_T036.csv,Values_NSGA_improved_Vehi5_tas36_group_mo_co (1).csv
+results,NSGA-II,5,72,30,2700,data/results/NSGA-II/NSGAII_AGV05_T072.csv,Values_NSGA_improved_Vehi5_tas72_group_mo_co (1).csv
+results,NSGA-II,5,100,30,2700,data/results/NSGA-II/NSGAII_AGV05_T100.csv,Values_NSGA_improved_Vehi5_tas100_group_mo_co (1).csv
+results,NSGA-II,8,36,30,2680,data/results/NSGA-II/NSGAII_AGV08_T036.csv,Values_NSGA_improved_Vehi8_tas36_group_mo_co (4).csv
+results,NSGA-II,8,72,30,2700,data/results/NSGA-II/NSGAII_AGV08_T072.csv,Values_NSGA_improved_Vehi8_tas72_group_mo_co (1).csv
+results,NSGA-II,8,100,30,2700,data/results/NSGA-II/NSGAII_AGV08_T100.csv,Values_NSGA_improved_Vehi8_tas100_group_mo_co (1).csv
+results,NSGA-II,10,36,30,2700,data/results/NSGA-II/NSGAII_AGV10_T036.csv,Values_NSGA_improved_Vehi10_tas36_group_mo_co (1).csv
+results,NSGA-II,10,72,30,2700,data/results/NSGA-II/NSGAII_AGV10_T072.csv,Values_NSGA_improved_Vehi10_tas72_group_mo_co (1).csv
+results,NSGA-II,10,100,30,2700,data/results/NSGA-II/NSGAII_AGV10_T100.csv,Values_NSGA_improved_Vehi10_tas100_group_mo_co (1).csv
+results,IKnEA,5,72,30,2800,data/results/IKnEA/IKnEA_AGV05_T072.csv,Values_Knee_samp1_Vehi5_tas72_group_mo_co(1).csv
+results,IKnEA,5,100,30,2900,data/results/IKnEA/IKnEA_AGV05_T100.csv,Values_Knee_samp1_Vehi5_tas100_group_mo_co.csv
+results,IKnEA,8,36,30,2123,data/results/IKnEA/IKnEA_AGV08_T036.csv,Values_Knee_samp1_Vehi8_tas36_group_mo_co.csv
+results,IKnEA,8,72,30,3043,data/results/IKnEA/IKnEA_AGV08_T072.csv,Values_Knee_samp1_Vehi8_tas72_group_mo_co.csv
+results,IKnEA,8,100,30,2927,data/results/IKnEA/IKnEA_AGV08_T100.csv,Values_Knee_samp1_Vehi8_tas100_group_mo_co.csv
+results,IKnEA,10,36,30,2946,data/results/IKnEA/IKnEA_AGV10_T036.csv,Values_Knee_samp1_Vehi10_tas36_group_mo_co.csv
+results,IKnEA,10,72,30,2714,data/results/IKnEA/IKnEA_AGV10_T072.csv,Values_Knee_samp1_Vehi10_tas72_group_mo_co.csv
